@@ -1,0 +1,120 @@
+body{
+    
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: px;
+}
+.half-width{
+    width:50%;
+    padding-left:5%;
+}
+.headerlink{
+    padding-top: 55px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.headerlink a{
+    text-decoration: none;
+    padding-left: 50px;
+    font-size: 20px;
+    color: rgb(26, 219, 26);
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+.logo h1{
+    color: rgb(26, 219, 26);
+}
+.half-width img{
+    width: 80%;
+}
+.topsnd-text{
+    padding-top: 100px;
+}
+.orange-color{
+    color: rgb(41, 37, 247);
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(233, 49, 36),yellow);
+    font-weight: 900px;
+    color: white;
+    padding: 16px 40px;
+    border-radius: 30px;
+    
+}
+.imagin-text{
+    margin-bottom: 70px;
+}
+.middle img{
+    width: 40%;
+    height: 90%;
+    margin-left:150px;
+    padding-top: 50px;
+}
+.middle-text{
+    margin-top: 100px;
+}
+.lorm-text{
+    margin-bottom:80px ;
+}
+
+.middle-area{
+    margin-top:120px;
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+.recepe-text{
+    text-align: center;
+}
+
+.recepe-box{
+    display: flex;
+
+}
+
+.recepe-title img{
+width: 90%;
+height: 50%;
+padding-top: 15px;
+}
+.recepe-title{
+    width: 40%;
+    margin-left: 5%;
+    margin-right:5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.count-area{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 100px;
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.count{
+    margin-left: 8%;
+    margin-right:10%;
+    border-radius: 10px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: wheat;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
